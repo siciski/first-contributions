@@ -1,3 +1,4 @@
+- [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Arya Shah](https://github.com/shahmanager)
 - [Aung Khine](https://github.com/aungkhineh)
@@ -2303,6 +2304,7 @@ Shaurya522 from The Dooon School
 - 1014
 - [Akhil Gattu](https://github.com/akhilgattu02)
 - k2p2
+- less goo
 - Shani Tzoref
 - Aditya Nath Dwivedi
 - yatam jithendra
